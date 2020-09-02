@@ -1,4 +1,4 @@
-# Tableau-on-Ultimate-Fighting-Championship-UFC-Winners
+# Tableau-on-Ultimate-Fighting-Championship-Winners
 
 This visualisation presents an overview of Ultimate Fighting Championship (UFC) winners using a dataset of over 4000 UFC fights from 21 March 2010 to 15 August 2020. 
 
